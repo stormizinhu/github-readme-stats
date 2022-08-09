@@ -360,7 +360,13 @@ const themes = {
     icon_color: "ebbcba",
     text_color: "e0def4",
     bg_color: "191724",
-  }
-};
+  },
+    retro: {
+    title_color: "00AEFF",
+    icon_color: "2DDE98",
+    text_color: "FFFFFF",
+    bg_color: "050F2C",
+    font_family: "font-family: 'Press Start 2P', cursive";
+  };
 
 module.exports = themes;
